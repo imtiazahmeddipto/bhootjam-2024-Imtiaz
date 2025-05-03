@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|d:\\unitybackups\\bhoot jam 2025 - imtiaz\\assets\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\assets\\horrorplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\horrorplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\assets\\guncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\guncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\assets\\horrorcameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\horrorcameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\assets\\interactablecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\interactablecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|d:\\unitybackups\\bhoot jam 2025 - imtiaz\\assets\\randomanimalspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\randomanimalspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|d:\\unitybackups\\bhoot jam 2025 - imtiaz\\assets\\rain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\rain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\assets\\audiotrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\audiotrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\assets\\tigarai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\tigarai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\assets\\spiritpatroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\spiritpatroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\assets\\pigai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\pigai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\assets\\deerai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\deerai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\assets\\cutscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\cutscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\assets\\face.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\face.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\assets\\spiritualtigar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\spiritualtigar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\assets\\sway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8296A-F657-79C7-308E-AA1122C5250C}|Assembly-CSharp.csproj|solutionrelative:assets\\sway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GunController.cs",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\GunController.cs",
+              "RelativeDocumentMoniker": "Assets\\GunController.cs",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\GunController.cs",
+              "RelativeToolTip": "Assets\\GunController.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAApwCUBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:23:46.229Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\TaskManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TaskManager.cs",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\TaskManager.cs",
+              "RelativeToolTip": "Assets\\TaskManager.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAArwKQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:13:57.343Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InteractableCamera.cs",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\InteractableCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\InteractableCamera.cs",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\InteractableCamera.cs",
+              "RelativeToolTip": "Assets\\InteractableCamera.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T04:45:46.43Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RandomAnimalSpawn.cs",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\RandomAnimalSpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\RandomAnimalSpawn.cs",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\RandomAnimalSpawn.cs",
+              "RelativeToolTip": "Assets\\RandomAnimalSpawn.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:55:30.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rain.cs",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\Rain.cs",
+              "RelativeDocumentMoniker": "Assets\\Rain.cs",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\Rain.cs",
+              "RelativeToolTip": "Assets\\Rain.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:19:40.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PigAI.cs",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\PigAI.cs",
+              "RelativeDocumentMoniker": "Assets\\PigAI.cs",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\PigAI.cs",
+              "RelativeToolTip": "Assets\\PigAI.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T20:25:40.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Bullet.cs",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T06:46:02.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AudioTrigger.cs",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\AudioTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\AudioTrigger.cs",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\AudioTrigger.cs",
+              "RelativeToolTip": "Assets\\AudioTrigger.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:20:03.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CutScene.cs",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\CutScene.cs",
+              "RelativeDocumentMoniker": "Assets\\CutScene.cs",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\CutScene.cs",
+              "RelativeToolTip": "Assets\\CutScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:35:02.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpiritPatroll.cs",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\SpiritPatroll.cs",
+              "RelativeDocumentMoniker": "Assets\\SpiritPatroll.cs",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\SpiritPatroll.cs",
+              "RelativeToolTip": "Assets\\SpiritPatroll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:23:39.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TigarAI.cs",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\TigarAI.cs",
+              "RelativeDocumentMoniker": "Assets\\TigarAI.cs",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\TigarAI.cs",
+              "RelativeToolTip": "Assets\\TigarAI.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAswJ4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:42:37.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SpiritualTigar.cs",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\SpiritualTigar.cs",
+              "RelativeDocumentMoniker": "Assets\\SpiritualTigar.cs",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\SpiritualTigar.cs",
+              "RelativeToolTip": "Assets\\SpiritualTigar.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAADgv4gAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:35:42.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Face.shader",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\Face.shader",
+              "RelativeDocumentMoniker": "Assets\\Face.shader",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\Face.shader",
+              "RelativeToolTip": "Assets\\Face.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-02T05:49:09.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeerAI.cs",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\DeerAI.cs",
+              "RelativeDocumentMoniker": "Assets\\DeerAI.cs",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\DeerAI.cs",
+              "RelativeToolTip": "Assets\\DeerAI.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAYwIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T15:27:39.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sway.cs",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\Sway.cs",
+              "RelativeDocumentMoniker": "Assets\\Sway.cs",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\Sway.cs",
+              "RelativeToolTip": "Assets\\Sway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:00:49.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HorrorCameraController.cs",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\HorrorCameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\HorrorCameraController.cs",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\HorrorCameraController.cs",
+              "RelativeToolTip": "Assets\\HorrorCameraController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAnwEUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T03:53:42.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HorrorPlayerController.cs",
+              "DocumentMoniker": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\HorrorPlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\HorrorPlayerController.cs",
+              "ToolTip": "D:\\UnityBackUps\\Bhoot Jam 2025 - Imtiaz\\Assets\\HorrorPlayerController.cs",
+              "RelativeToolTip": "Assets\\HorrorPlayerController.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAlwFMBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T03:29:50.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
